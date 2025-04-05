@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Chroma",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,14 +11,13 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Lyntr",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Lyntr",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "Lyntr/Overview",
+              "Lyntr/Setup"
             ]
           },
           {
@@ -58,8 +57,8 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Website",
+          "href": "https://chr0ma.me",
           "icon": "book-open-cover"
         },
         {
@@ -83,7 +82,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:chroma@the254.org"
       }
     ],
     "primary": {
